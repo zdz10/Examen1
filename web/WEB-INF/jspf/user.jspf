@@ -1,0 +1,5 @@
+<%@page import="java.util.ArrayList"%>
+<%@ page pageEncoding="UTF-8" %>
+<div align="right">
+    <h3>Usuario: <%= request.getParameter("usuario")%></h3>
+</div>
